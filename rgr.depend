@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1589048902 source:c:\users\leonid\desktop\rgr\main.cpp
+	"zapis.h"
+	<string>
+	<cstdio>
+	<fstream>
+	<vector>
+
+1589009519 c:\users\leonid\desktop\rgr\zapis.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1588951891 source:c:\users\leonid\desktop\rgr\zapis.cpp
+	"zapis.h"
+	<string>
+
+1589733043 source:c:\users\79371\desktop\Санчес\rgr\zapis.cpp
+	"Phonerecord.h"
+	<string>
+
+1588969918 c:\users\79371\desktop\Санчес\rgr\zapis.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1589735220 c:\users\79371\desktop\Санчес\rgr\phonerecord.h
+
+1589735230 source:c:\users\79371\desktop\Санчес\rgr\phonerecord.cpp
+	<string>
+	<iostream>
+	"Phonerecord.h"
+
+1589739814 source:c:\users\79371\desktop\Санчес\rgr\main.cpp
+	<cstdio>
+	<fstream>
+	<vector>
+	<iostream>
+	<windows.h>
+	<string>
+	<array>
+	"Phonerecord.h"
+
+1590491751 source:c:\users\king\desktop\Диалоги_files\rgr\main.cpp
+	<fstream>
+	<iostream>
+	<windows.h>
+	<string>
+	<array>
+	"Phonerecord.h"
+
+1590166785 c:\users\king\desktop\Диалоги_files\rgr\phonerecord.h
+
+1590162998 source:c:\users\king\desktop\Диалоги_files\rgr\phonerecord.cpp
+	<string>
+	<iostream>
+	"Phonerecord.h"
+
+1591276008 source:c:\users\king\desktop\rgr\main.cpp
+	<fstream>
+	<iostream>
+	<windows.h>
+	<string>
+	<array>
+	"Phonerecord.h"
+
+1591166673 c:\users\king\desktop\rgr\phonerecord.h
+
+1591166673 source:c:\users\king\desktop\rgr\phonerecord.cpp
+	<string>
+	<iostream>
+	"Phonerecord.h"
+
